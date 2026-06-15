@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL modules
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments (highly recommended if you use them later)
+venv/
+.venv/
+env/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
